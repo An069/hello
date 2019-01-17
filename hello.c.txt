@@ -1,1 +1,14 @@
-An Huang
+/**
+* File: hello
+* Date: 1/17/2019
+* Author: An Huang
+*
+* This program prints hello
+* Made changes because requested
+*
+*/ 
+
+int main(int argc, char **argv) {
+  printf("An Huang");
+  printf("Computer Science");
+  return (0);
